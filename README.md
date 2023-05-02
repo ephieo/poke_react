@@ -1,4 +1,4 @@
-# Poke React App 
+# Poke React App  - Introduction to React Lab Work
 An example react app to help explain fetch requests and react basics
 
 <img width="291" alt="Screenshot 2022-11-28 at 22 31 00" src="https://user-images.githubusercontent.com/60614102/204410729-97fcb7df-4ee3-4b31-afe0-eef7d49210f8.png">
